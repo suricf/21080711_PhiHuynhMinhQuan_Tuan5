@@ -84,3 +84,35 @@ body {
     margin-left: 140px;
     margin-top: 10px;
 }
+
+.container_below_product {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 140px;
+}
+
+.container_below_product_rate {
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    font-size: 10px;
+}
+
+.container_below_product_icon {
+    display: flex;
+    align-items: center;
+    margin-right: 160px;
+    font-size: 14px;
+}
+
+.container_below_product_icon_share {
+    display: flex;
+    align-items: center;
+}
+
+.container_below_product_icon_save {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
